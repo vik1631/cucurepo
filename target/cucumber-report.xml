@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="47.096803">
+<testcase classname="Accessories feedback form" name="Fillin the form and submit" time="47.096803">
+<system-out><![CDATA[Given I am at the accessories page..........................................passed
+And I scrolled down to acessories section...................................passed
+When I enter values in the fields...........................................passed
+And I checked the checkbox..................................................passed
+And I clicked on the send button............................................passed
+Then I should see Thank you message.........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
